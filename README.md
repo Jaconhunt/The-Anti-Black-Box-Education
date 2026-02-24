@@ -95,6 +95,8 @@
 > 不要害怕给年轻的大脑喂养复杂的数学方程与糟糕的物理噪声。给他们第一性原理，他们会还你一个奇迹。
 > *(Ethan Gao 的完整 Project Portfolio PDF 已收录于本仓库 `/exemplars` 目录下，欢迎查阅)*
 
+<br>
+
 ## 🧬 参与协作 (The Beta Test Workflow)
 
 本书并非“瀑布流”式的闭门造车，而是一个在 GitHub 上持续迭代的 **敏捷系统 (Agile System)**。
