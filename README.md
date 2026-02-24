@@ -72,8 +72,28 @@
 * **Appx B. “防智商税”采购清单**：万用表、电烙铁、打印机与开源硬件选型指南 (Hardcore BOM)。
 * **Appx C. 降维打击教材库**：被藏起来的国外神级微积分/物理教材与可视化工具（Desmos）推荐。
 * **Appx D. [极客彩蛋] 破解系统的黑盒**：手搓一个 API 监控可视化节流阀（JS 注入实战）。
-
+  
 <br>
+
+## 💎 极客展厅：终极形态概念验证 (Proof of Concept)
+
+*“Building things has taught me that understanding comes from closing the loop between theory and reality.”*  
+*（造物教会我，真正的理解来源于闭环理论与现实。） — Ethan Gao*
+
+为了证明“反黑盒教育”不是纸上谈兵，本项目特别收录了优秀创客 **Ethan Gao** 的硬核作品集作为各阶段的**“终极 Boss 战参考”**。他用行动证明了，当一个学生跨越了电子积木的桎梏，能爆发出怎样的工程创造力：
+
+* ⚙️ **对应 Phase 1 (机械直觉)** 
+  * **1:12 双盘摆线减速器**：完全依靠参数化方程设计，通过极限的公差控制实现了极低背隙（Zero Backlash）的机械传动。
+* ⚡ **对应 Phase 2 (数字桥梁)**
+  * **ECG 心电多功能测试仪**：拒绝现成的心率模块！从底层搭建模拟前端，利用 60Hz 陷波滤波器（Notch Filter）对抗电源噪声，并在 PCB 板级完成信号的纯净提取。
+* 📐 **对应 Phase 3 (微积分引擎)**
+  * **二战级机械积分器 (Mechanical Integrator)**：纯物理的模拟计算机！利用摩擦盘与无级变速（CVT）原理，将 $\int f(x)dx$ 转化为真实的齿轮旋转。
+  * **极坐标绘图仪 (Polar Pen Plotter)**：在微控制器极限的 30KB 内存中，利用四阶龙格-库塔法（RK4）与阿基米德螺旋线算法，在极坐标系 $(r, \theta)$ 下打印位图。
+  * **次世代 5 轴 3D 打印机**：从零编写 Marlin 固件中的逆向运动学（Inverse Kinematics）算法，实现无支撑曲面打印，挑战空间几何的极限。
+
+> **💡 启发：** 
+> 不要害怕给年轻的大脑喂养复杂的数学方程与糟糕的物理噪声。给他们第一性原理，他们会还你一个奇迹。
+> *(Ethan Gao 的完整 Project Portfolio PDF 已收录于本仓库 `/exemplars` 目录下，欢迎查阅)*
 
 ## 🧬 参与协作 (The Beta Test Workflow)
 
